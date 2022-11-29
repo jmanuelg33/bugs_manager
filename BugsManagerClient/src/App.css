@@ -1,0 +1,24 @@
+.app-flex{
+  display: flex;
+  flex: 1
+}
+
+.app-flex-row{
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+
+.app-flex-column{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.app-content-root{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: flex-start;
+    align-items: center;
+}
