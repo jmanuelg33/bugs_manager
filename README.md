@@ -25,5 +25,3 @@ Checkout appsettings.json for ConnectionString for database
 
 ##### Routes
 Checkout Swagger Configuration https://<IP>:<PORT>/swagger
-
-
