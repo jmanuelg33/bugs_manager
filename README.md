@@ -24,4 +24,4 @@ Checkout appsettings.json for ConnectionString for database
 5. `dotnet run`
 
 ##### Routes
-Checkout Swagger Configuration https://<IP>:<PORT>/swagger
+Checkout Swagger Configuration `https://<IP>:<PORT>/swagger`
